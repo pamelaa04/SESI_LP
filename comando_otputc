@@ -1,0 +1,13 @@
+#include <stdio.h>
+
+//comando de começo da iniciação do código
+void main(){
+    
+    printf("Olá, Bom dia! 😝\n");
+    
+    int A;
+    int B;
+    A=1;
+    B=2;
+    printf("%b %b", A, B);
+}
