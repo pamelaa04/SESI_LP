@@ -14,4 +14,4 @@ echo Configurações aplicadas com sucesso:
 git config --global user.name
 git config --global user.email
 
-pause
+exit
